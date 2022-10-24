@@ -1,6 +1,7 @@
 body{
     background-color: black;
 }
-input {
-    caret-color: transparent;
-  }
+h1{
+    text-align: center;
+    color:black;
+}
